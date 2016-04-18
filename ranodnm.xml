@@ -1,13 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_stutter" id="332" x="-27" y="-2">
-    <next>
-      <block type="robot_delay" id="334" inline="true">
-        <value name="DELAY">
-          <block type="math_number" id="341">
-            <field name="NUM">6000</field>
-          </block>
-        </value>
-      </block>
-    </next>
-  </block>
-</xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
